@@ -9,6 +9,7 @@ exports.getCategory = (conn) => {
             } else {
                 return reject(err);
             }
+            //test
         });
     });
 }
