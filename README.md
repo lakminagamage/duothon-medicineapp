@@ -1,4 +1,4 @@
-# duothon-medicineapp
+# duothon-MedMate
 Duothon Coding hackathon 2023
 
 
